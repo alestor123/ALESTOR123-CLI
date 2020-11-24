@@ -1,6 +1,6 @@
 {
   "name": "alestor123-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple code for the alestor123 contact cli",
   "main": "App.js",
   "bin": {
