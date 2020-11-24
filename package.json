@@ -1,0 +1,19 @@
+{
+  "name": "alestor123-cli",
+  "version": "1.0.0",
+  "description": "This is a simple code for the alestor123 contact cli",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/ALESTOR123-CLI.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/ALESTOR123-CLI/issues"
+  },
+  "homepage": "https://github.com/alestor123/ALESTOR123-CLI#readme"
+}
