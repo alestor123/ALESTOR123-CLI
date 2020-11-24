@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for the alestor123 contact cli",
   "main": "App.js",
+  "bin": {
+    "alestor123-cli": "App.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
